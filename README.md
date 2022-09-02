@@ -11,6 +11,6 @@ Existing key words:
 
 **Modules installation:**
 
-pip install telethon\n
-pip install asyncio\n
+pip install telethon;
+pip install asyncio;
 pip install nest_asyncio
